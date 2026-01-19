@@ -1,0 +1,9 @@
+{
+  "initial_sodium_hypochlorite_strength": 10.0,
+  "initial_chlorate_concentration": 0.5,
+  "chlorine_dose": 5.0,
+  "pump_capacity": 100.0,
+  "water_flow_rate": 1.0,
+  "storage_temperature": 25.0,
+  "storage_time": 10.0
+}
